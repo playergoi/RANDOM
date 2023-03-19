@@ -1,2 +1,2 @@
 # RANDOM
-social network data
+social network data which is for analysis of networks
